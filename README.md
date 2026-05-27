@@ -107,8 +107,8 @@ const newGrades = [88, 70, 90];
 
 addGrades(student, newGrades) =>
 {
-    name: 'Brian McClain',
-    email: 'brian.mcclain@codeimmersives.com',
+   name: 'Chett Tiller',
+    email: 'chett.teller@nobledesktop.com',
     grades: [80, 100, 95, 88, 70, 90]
 }
 ```
